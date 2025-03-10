@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My new hugo site'
-theme = 'hugo-theme-reimu-main'
+theme = 'ananke'
