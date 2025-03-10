@@ -1,6 +1,6 @@
 +++
 date = '2025-02-21T10:18:36-08:00'
-draft = true
+draft = false
 title = 'Practica 0: Markdown, Git y Hugo'
 +++
 <!-- Los comentarios se hacen de esta manera -->
