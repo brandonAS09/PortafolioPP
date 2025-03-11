@@ -16,7 +16,7 @@ title = 'Practica 0: Markdown, Git y Hugo'
 ##### Encabezado 5
 
 <!-- como hacer el tipo de letra, ejemplo italicas-->
-Este es un texto en *italica*
+Este es un texto en *italica* si funciona o ne
 <!-- Tambien se puede con guin bajo -->
 <!-- como hacer negritas -->
 Este es un texto en **Negritas**
