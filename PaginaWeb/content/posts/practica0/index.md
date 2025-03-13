@@ -5,18 +5,20 @@ title = 'Practica 0: Markdown, Git y Hugo'
 +++
 <!-- Los comentarios se hacen de esta manera -->
 <!-- Encabezados depende el numero de # es el numero de encabezados-->
-# Encabezado 1
+# Sesión 1:
+*Durante la primera sesion de laboratorio de la materia **Paradigmas de la programación** se nos enseño a utilizar **Markdown**, como por ejemplo cual es su uso y cual es su sintaxis, a continuacion se muestra el primer ejemplo que desarrollamos de markdown:*
+## Encabezado 1
 
-## Encabezado 2
+### Encabezado 2
 
-### Encabezado 3
+#### Encabezado 3
 
-#### Encabezado 4
+##### Encabezado 4
 
-##### Encabezado 5
+###### Encabezado 5
 
 <!-- como hacer el tipo de letra, ejemplo italicas-->
-Este es un texto en *italica* si funciona o ne
+Este es un texto en *italica* 
 <!-- Tambien se puede con guin bajo -->
 <!-- como hacer negritas -->
 Este es un texto en **Negritas**
@@ -102,3 +104,11 @@ console.test = ()
 ***  
 <!-- Menciones -->
 @brandon :+1: :smile:
+***
+# Sesión 2:
+*Durante la sesión número 2 se nos enseño a utilizar **Git** y **Github** con Git nos da acceso a una terminal mucho mejor en mi opinión que la de **CMD** y con Github aprendimos el concepto de las branches y de como hacer commits para tener un seguimiento sobre nuestos programas*
+
+[![Logo de Github](./images/github.png)](https://github.com "Sitio de github")
+***
+# Sesión 3
+*Durante la sesión 3 combinamos los conocimientos que adquirimos en las 2 anteriores sesiones y combinamos los conocimientos de **Markdown** y **Git** para la generación de páginas estaticas con **Hugo** y **Github Actions**, en esa sesión genramos está página que estas visitando justo en este momento!*
